@@ -71,7 +71,7 @@ Response:
     Status code: 201
     response_body:
     {
-        "shortened_url": 'http://www.your_service.com/ouoYFY48'
+        "shortened_url": 'http://localhost:8000/ouoYFY48'
     }
 ```
 
